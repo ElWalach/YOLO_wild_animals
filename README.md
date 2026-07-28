@@ -1,6 +1,6 @@
 # YOLO Wild Animals 🦌🐗🐅
 
-System detekcji dzikich zwierząt oparty na architekturze **YOLOv8**, zrealizowany w ramach projektu z przedmiotu *Sztuczna Inteligencja* (Informatyka w Inżynierii Komputerowej, III rok).
+System detekcji dzikich zwierząt oparty na architekturze **YOLOv8**, zrealizowany w ramach projektu z przedmiotu *Sztuczna Inteligencja*.
 
 Model automatycznie rozpoznaje i lokalizuje **17 gatunków dzikich zwierząt** na zdjęciach wykonanych w naturalnym środowisku leśnym i górskim Azji Wschodniej, m.in. jelenia sika, sarnę, dzika, lisa rudego, jenota azjatyckiego, tygrysa amurskiego, lamparta i innych.
 
